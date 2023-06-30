@@ -1,0 +1,35 @@
+{"coord":{
+    "lon":-73.9352,
+    "lat":40.7306
+},
+"weather":[
+    {
+    "id":800,
+    "main":"Clear",
+    "description":"clear sky",
+    "icon":"01d"
+    }
+],
+"base":"stations","main":{
+    "temp":298.29,
+    "feels_like":298.82,
+    "temp_min":295.85,
+    "temp_max":300.47,
+    "pressure":1009,
+    "humidity":75
+    },
+    "visibility":10000,
+    "wind":{"speed":5.14,"deg":190},
+    "clouds":{"all":0},
+    "dt":1687735654,"sys":{
+        "type":2,
+        "id":2002197,
+        "country":"US",
+        "sunrise":1687685137,
+        "sunset":1687739454
+    },
+    "timezone":-14400,
+    "id":5125125,
+    "name":"Long Island City",
+    "cod":200
+}
